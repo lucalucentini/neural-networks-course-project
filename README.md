@@ -31,8 +31,7 @@ The experiments illustrate how architecture, loss function, and optimizer choice
 The image classification experiments show that architectures performing well on MNIST do not necessarily transfer successfully to more complex datasets. Results on CIFAR-10 motivate further investigation of deeper architectures, regularization, and data augmentation.
 
 ## Report
-[Read](report.pdf) or 
-[download](report.pdf?raw=true) the full report (Italian).
+[Download the full report (Italian)](report.pdf?raw=true).
 
 The PDF report is written in **Italian** and includes mathematical derivations, Python code listings, experimental results, and figures. This README provides an English overview.
 
