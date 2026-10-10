@@ -32,7 +32,7 @@ The image classification experiments show that architectures performing well on 
 
 ## Report
 [Read](report.pdf) or 
-[download the full report (Italian)](report.pdf?raw=true)
+[download](report.pdf?raw=true) the full report (Italian).
 
 The PDF report is written in **Italian** and includes mathematical derivations, Python code listings, experimental results, and figures. This README provides an English overview.
 
